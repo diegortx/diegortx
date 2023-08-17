@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on Full-Stack Development
 - 🌱 I’m currently learning PHP, Laravel, VueJS, MySQL and AWS
 - 📫 How to reach me: dhnogueira1@hotmail.com
-
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegortx&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegortx&hide_progress=false&theme=dracula)
 ##
 - 🤩
 <div style="display: inline_block"><br>
