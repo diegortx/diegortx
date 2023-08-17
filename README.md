@@ -5,6 +5,7 @@
 - 📫 How to reach me: dhnogueira1@hotmail.com
 
 ##
+- 🤩
 <div style="display: inline_block"><br>
    <img align="center" alt="Diego-Git" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
     <img align="center" alt="Diego-PHP" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -17,7 +18,16 @@
 </div>
 
 ##
+- 👨‍💻
+<div style="display: inline_block"><br>
+      <img align="center" alt="Diego-Linux" height="30" width="auto" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+         <img align="center" alt="Diego-Centos" height="30" width="auto" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
+         <img align="center" alt="Diego-Mac" height="30" width="auto" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+            <img align="center" alt="Diego-Mac" height="25" width="auto" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</div>
 
+##
+- 👻
 <div style="display: inline_block"><br>
  <a href="https://www.linkedin.com/in/dhnogueira1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/dhnogueira08/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
