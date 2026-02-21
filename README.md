@@ -1,7 +1,6 @@
 ### Hi I'm Diego H Nogueria 👋
 
 - 🔭 I’m currently working on Full-Stack Development
-- 🌱 I’m currently learning PHP, Laravel, VueJS, MySQL and AWS
 - 📫 How to reach me: dhnogueira1@hotmail.com
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegortx&show_icons=true&theme=dracula)
